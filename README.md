@@ -1,7 +1,7 @@
 - 👋 Hi, I’m suraj.
 - 👀 I’m interested in creating web application. 
 - 🌱 I’m currently learning Web Development for myself to improve my skills.
-- 💞️ I’m looking for an internship to showcase my skils.
+- 💞️ I’m looking for an internship to showcase my skills.
 - 📫 How to reach me https://portfolio-28.netlify.app/
 
 <!---
