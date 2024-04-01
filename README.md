@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am pursuing my bachelor's degree from Starex University and a professional web developer with six months  of experience in web development with a proficient consistency in node.js and react JS. Strong creative and  analytical skills. Let's connect and collaborate!
+I am pursuing my bachelor's degree from Starex University and a professional web developer with six months  of experience in web development with a proficient consistency in node.js and react JS. Strong creative and  analytical skills. I am very passionate about improving my coding skills & developing web applications & websites. Working for myself to improve my skills. Love to build Web clones.. Let's connect and collaborate!
 
 
 ## 🌐 Socials:
