@@ -2,7 +2,7 @@
 I am **Self taught web developer**
 
 - 🗃️ Working on multiple frontend and backend project using javaScript and Nodejs
-- 🎯 Haking on JavaScript
+- Passionate Web Developer seeking new opportunities to showcase skills and drive innovation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-47333521b/) 
